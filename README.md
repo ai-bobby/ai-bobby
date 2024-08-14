@@ -8,11 +8,20 @@
 </div>
 
 <h2><strong> About Me </strong></h2>
-I am a results-driven machine learning specialist with a Ph.D. in Artificial Intelligence and extensive experience in both academia and the industry, including working with and consulting for various start-ups. Over the years, I have tackled a wide variety of machine learning projects, from inception to deployment, demonstrating my adaptability and commitment to delivering high-quality solutions. My hands-on expertise in building and training numerous models is complemented by my proficiency in using cloud service providers like AWS to efficiently execute and scale projects. With a solid foundation in AI, ML, and deep learning, honed through plus 10 years of teaching at the university level, I am well-equipped to contribute significantly to any organization and drive innovation in the rapidly-evolving field of machine learning.
+Hello!  
+
+
+I am a Python programmer with nearly two years of experience and I am currently learning and developing my skills in the field of artificial intelligence. During this time, I have experienced a short internship in a company that gave me the opportunity to learn and improve my practical skills. 
+In this course, I realized how important the quality of coding and its maintainability and development is. I understood very well the importance of writing code that is not only efficient, but also easily developable and readable. I also learned about the concepts of "Good Coding" and "Design Patterns" and came to the conclusion that having a proper structure and integrity in the codes can have a great impact on the success of a project.
+In addition to technical skills, I am very interested in teamwork and cooperation with others. Being organized, having innovative and creative ideas, and enjoying working in a team environment are some of the qualities that I always highlight in my work. 
+I believe that combining technical skills with team spirit is the key to success in complex and large projects and I am always looking for new opportunities to learn and share my knowledge with others.
 
 
 
-- 🚀 I'm the Chief Technology Wizard 🧙‍♂️ at MarginsAI, dabbling in the mystical arts of AI and startup alchemy at the ADAPT Centre, TCD, Dublin.
+
+
+
+
 - 🌱 By day, I'm a Machine Learning Engineer, conjuring up models that learn like humans (but without the need for coffee! ☕). From building and training to testing and deploying, I make sure these digital brains are top-notch!
 - 👯‍♂️ On the lookout for fellow adventurers! Eager to team up on new startup quests and innovative escapades. Have an idea? Let's make it the next big thing together!
 - 💬 Wizard's hat off, I'm all ears for chit-chats about Python spells, programming puzzles, AI enigmas, ML mysteries, and DL dilemmas. Got questions? I've got answers (or at least, I'll Google them really fast 😉).
