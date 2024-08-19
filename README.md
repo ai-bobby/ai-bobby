@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ai-bobby)
 [![Github](https://img.shields.io/github/followers/ai-bobby?label=Follow&style=social)](https://github.com/ai-bobby)
 
