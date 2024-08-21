@@ -41,16 +41,22 @@ I believe that combining technical skills with team spirit is the key to success
 
 **Ready to embark on a tech adventure? Reach out and let's make magic happen!** 🌟
 
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/babaksharifyalme'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/ai-bobby'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/ai-bobby'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<h2>📱 &nbsp; Connct Me </h2>
 
-<br>
-<br>
+<p>
+  <a href="https://zil.ink/bobbydev3"> 
+    <img src="https://img.shields.io/badge/Website-zil.ink/bobbydev3>-blue?style=flat&logo=google-chrome" />
+  </a>
+  <a href="https://instagram.com/ai.bobby/">
+    <img src="https://img.shields.io/badge/Instagram-@ai.bobby-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/babakdev/">
+    <img src="https://img.shields.io/badge/Telegram-@Babakdev-blue?style=flat&logo=telegram" />
+  </a>
+</p>
 
-[![Naser's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ai-bobby&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Naser's github stats](https://github-readme-stats.vercel.app/api?username=ai-bobby&show_icons=true&theme=tokyonight) | ![Naser GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snrazavi&theme=tokyonight) |
+
+| ![Bobby github stats](https://github-readme-stats.vercel.app/api?username=ai-bobby&show_icons=true&theme=tokyonight) | ![Bobby GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ai-bobby&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-bobby&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ai-bobby&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
