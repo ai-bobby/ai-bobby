@@ -45,7 +45,7 @@ I believe that combining technical skills with team spirit is the key to success
 
 <p>
   <a href="https://zil.ink/bobbydev3"> 
-    <img src="https://img.shields.io/badge/Website-zil.ink/bobbydev3>-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-bobbydev3-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="https://instagram.com/ai.bobby/">
     <img src="https://img.shields.io/badge/Instagram-@ai.bobby-red?style=flat&logo=instagram" />
