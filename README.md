@@ -1,4 +1,5 @@
-# Hi there 👋
+# <h2>  Hi there 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
@@ -6,8 +7,7 @@
 [![Github](https://img.shields.io/github/followers/ai-bobby?label=Follow&style=social)](https://github.com/ai-bobby)
 
 
-### <div size='20px'> My name is babak Thanks for taking the time to view my GitHub Profile. 
-</div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">My name is babak Thanks for taking the time to view my GitHub Profile
 
 <h2><strong> About Me </strong></h2>
 Hello!  
